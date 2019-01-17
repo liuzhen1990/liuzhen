@@ -8,12 +8,12 @@
 
 ## 项目初始化方式:
 ```
-安装依赖包： yarn
+安装依赖包： yarn or npm
 ```
 
 ## 开发模式运行:
 ```
-yarn run dev
+yarn run dev or npm run dev
 ```
 
 ## 线上打包:
